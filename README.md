@@ -9,7 +9,7 @@
 
 ## ⚠️ Legacy Notice
 **This is the Python/PySide6 prototype of the MMU Painter.**
-While fully functional, it relies on CPU-bound recursion for mesh subdivision. It performs well on low-poly assets but is **significantly slower** on high-density meshes compared to the production [C# / WPF version](https://github.com/your-username/3MFTool). It is archived here for educational purposes and for cross-platform users (Linux/macOS).
+While fully functional, it relies on CPU-bound recursion for mesh subdivision. It performs well on low-poly assets but is **significantly slower** on high-density meshes compared to the production [C# / WPF version](https://github.com/your-username/prusa_mmu_painter). It is archived here for educational purposes and for cross-platform users (Linux/macOS).
 
 ---
 
